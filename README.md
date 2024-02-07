@@ -16,7 +16,11 @@ SHA256 file hash: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f
 - This file has is known as malware Flagpro, commonly used by the threat actor BlackTech
 - This information was found in the “Detection” and “Community” tabs
 
-![IMG_7187](https://github.com/wilsonmantilla/VirusTotal/assets/159208489/2bb87a54-43d4-4376-ab63-f37ab7f5a729)
+![7](https://github.com/wilsonmantilla/VirusTotal/assets/159208489/ac3ccf2f-96fc-4b9d-9d2a-e2c77f22233d)
+
+
+![edit](https://github.com/wilsonmantilla/VirusTotal/assets/159208489/6596c338-ff5e-44c8-8a7c-ffc088bcad2a)
+
 
 <h2>3. Determined that hash file is malicious</h2>
  
