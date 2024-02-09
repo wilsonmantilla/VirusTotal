@@ -1,7 +1,7 @@
 <h1>Suspicious File Hash</h1>
 
 <h2>Description</h2>
-I was given a file hash and instructed to determine if it’s a malicious file based on the evidence gathered on the VirusTotal (OSINT) website, as well as finding different types of IOC’s associated with this file.
+I was given a file hash and instructed to determine if it’s a malicious file based on the evidence gathered on the VirusTotal (OSINT) website, as well as finding different types of IOC’s associated with this file. This project was part of the Google Cybersecurity Professional Certification.
 <br />
 <br />
 SHA256 file hash: 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b
